@@ -1,0 +1,24 @@
+@charset "utf-8";
+.container .container-fluid {
+	background-color: #FFFFFF;
+}
+.container {
+	background-color: #FFFFFF;
+}
+
+#headingOne1 .mb-0 a {
+	color: #FF0004;
+}
+#headingThree1 .mb-0 .collapsed {
+	color: #FF0004;
+}
+
+#headingTwo1 .mb-0 .collapsed {
+	color: #FF0105;
+}
+
+
+.card.col-md-4.col-xl-12 .card-body .btn.btn-primary {
+	background-color: #FF0004;
+}
+
